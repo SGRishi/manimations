@@ -1,0 +1,7 @@
+{
+  "name": "manimations",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo \"no build steps yet\""
+  }
+}
