@@ -1,0 +1,9 @@
+manim
+numpy
+sympy>=1.11
+pylatex>=1.4.2
+latex>=0.7
+matplotlib>=3.7
+jupyterlab>=4.0
+nbconvert>=7.0
+
